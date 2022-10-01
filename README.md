@@ -1,2 +1,2 @@
-# java-sudoku
-The project that Implements sudoku-game in Java language.
+# ZBsudoku
+The project that implement sudoku-game in java.
