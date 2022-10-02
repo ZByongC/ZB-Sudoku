@@ -1,7 +1,7 @@
 # ZBsudoku
-This is a clone-project for learning java.
-Here is the link that I followed.
-[[Create a Sudoku Solver In Java In 20 Minutes - Full Tutorial](https://www.youtube.com/watch?v=mcXc8Mva2bA)]
+This is a clone-project for learning java.<br>
+Here is the link that I followed.<br>
+[[Create a Sudoku Solver In Java In 20 Minutes - Full Tutorial](https://www.youtube.com/watch?v=mcXc8Mva2bA)]<br>
 
 ## Sudoku Rules
 1. What you have is a nine by nine grid of numbers
